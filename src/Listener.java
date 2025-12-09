@@ -55,7 +55,7 @@ public class Listener implements ActionListener {
             JOptionPane.showMessageDialog(
                     null,
                     "YOU FOUND A BOMB",
-                    "Secret Found!",
+                    "BOMB FOUND",
                     JOptionPane.INFORMATION_MESSAGE,
                     scaledIcon);
             System.exit(0);

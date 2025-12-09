@@ -15,7 +15,6 @@ public class App {
         for (int i = 0; i < 64; i++) {
             buttons[i] = new JButton("Click me!");
             buttons[i].setSize(20, 20);
-            ;
             buttons[i].setName("" + i);
             buttons[i].setOpaque(true);
             buttons[i].setBorderPainted(true);
